@@ -1,0 +1,3 @@
+# CHANGELOG
+## 0.1.0 BETA
+Official Beta is here! The beta version of **Unit CNVRT** currently focuses exclusively on conversions functionality (0.1.0 focuses on Length Conversions). This limited scope allows to thoroughly test and refine the core functionality of our conversion tool, ensuring accuracy and reliability before expanding to other units of measurement. By starting with length conversions, I can gather valuable user feedback and make necessary improvements to deliver a superior user experience when the full range of conversions is launched.
